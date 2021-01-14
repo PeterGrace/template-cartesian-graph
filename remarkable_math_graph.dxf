@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459228.912101609
+2459228.915651366
   9
 $TDUCREATE
  40
-2459229.120434942
+2459229.123984699
   9
 $TDUPDATE
  40
-2459228.912101666
+2459228.915651423
   9
 $TDUUPDATE
  40
-2459229.120435
+2459229.123984757
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{9ED8F5A0-9904-48AE-B419-B6CB3E71139E}
+{8977F3CA-6898-4DDC-87DB-17AE8157E6C9}
   9
 $VERSIONGUID
   2
@@ -1297,9 +1297,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-36.04342573841268
+617.2672106291151
  22
-164.8601491580887
+839.5905944924984
  13
 0.0
  23
@@ -1325,7 +1325,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-3503.51068656716
+272.8764156996688
  41
 2.303215926493109
  42
@@ -3491,7 +3491,7 @@ AcDbLayerTableRecord
   2
 0
  70
-     0
+     1
  62
      7
 420
@@ -3519,7 +3519,7 @@ AcDbLayerTableRecord
   2
 margin
  70
-     0
+     1
  62
      2
 420
@@ -5717,26 +5717,6 @@ AcDbCircle
   0
 CIRCLE
   5
-30D
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-0.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 30E
 330
 337
@@ -5768,26 +5748,6 @@ checks
 AcDbCircle
  10
 350.0
- 20
-73.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-2FC
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 73.0
  30
@@ -6070,26 +6030,6 @@ AcDbCircle
 715.0
  20
 73.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-2EB
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-146.0
  30
 0.0
  40
@@ -6457,26 +6397,6 @@ AcDbCircle
   0
 CIRCLE
   5
-2DA
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-219.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 2D7
 330
 337
@@ -6748,26 +6668,6 @@ checks
 AcDbCircle
  10
 788.0
- 20
-292.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-2C9
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 292.0
  30
@@ -7137,26 +7037,6 @@ AcDbCircle
   0
 CIRCLE
   5
-2B8
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-365.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 2B5
 330
 337
@@ -7428,26 +7308,6 @@ checks
 AcDbCircle
  10
 788.0
- 20
-438.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-2A7
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 438.0
  30
@@ -7817,26 +7677,6 @@ AcDbCircle
   0
 CIRCLE
   5
-296
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-511.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 2A3
 330
 337
@@ -8108,26 +7948,6 @@ checks
 AcDbCircle
  10
 788.0
- 20
-584.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-285
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 584.0
  30
@@ -8817,26 +8637,6 @@ AcDbCircle
   0
 CIRCLE
   5
-274
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-657.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 271
 330
 337
@@ -9110,26 +8910,6 @@ AcDbCircle
 861.0
  20
 803.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-263
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-730.0
  30
 0.0
  40
@@ -9497,26 +9277,6 @@ AcDbCircle
   0
 CIRCLE
   5
-252
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-803.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 24F
 330
 337
@@ -9750,26 +9510,6 @@ AcDbCircle
 423.0
  20
 1606.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-243
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1679.0
  30
 0.0
  40
@@ -10137,26 +9877,6 @@ AcDbCircle
   0
 CIRCLE
   5
-232
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1606.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 22F
 330
 337
@@ -10428,26 +10148,6 @@ checks
 AcDbCircle
  10
 350.0
- 20
-1533.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-221
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 1533.0
  30
@@ -10817,26 +10517,6 @@ AcDbCircle
   0
 CIRCLE
   5
-210
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1460.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 20D
 330
 337
@@ -11108,26 +10788,6 @@ checks
 AcDbCircle
  10
 350.0
- 20
-1387.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-1FF
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 1387.0
  30
@@ -11497,26 +11157,6 @@ AcDbCircle
   0
 CIRCLE
   5
-1EE
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1314.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 1DB
 330
 337
@@ -11797,26 +11437,6 @@ AcDbCircle
   0
 CIRCLE
   5
-1DD
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1241.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 1DE
 330
 337
@@ -11848,26 +11468,6 @@ checks
 AcDbCircle
  10
 788.0
- 20
-1168.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-1CC
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 1168.0
  30
@@ -12150,26 +11750,6 @@ AcDbCircle
 569.0
  20
 1168.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-1BB
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1095.0
  30
 0.0
  40
@@ -12537,26 +12117,6 @@ AcDbCircle
   0
 CIRCLE
   5
-1AA
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
- 20
-1022.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
 1A7
 330
 337
@@ -12828,26 +12388,6 @@ checks
 AcDbCircle
  10
 788.0
- 20
-949.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-199
-330
-337
-100
-AcDbEntity
-  8
-checks
-100
-AcDbCircle
- 10
-642.0
  20
 949.0
  30
@@ -22837,7 +22377,7 @@ AcDbXrecord
 280
      1
  40
-3503.51068656716
+272.8764156996688
   0
 XRECORD
   5
@@ -22855,7 +22395,7 @@ AcDbXrecord
 280
      1
  40
-8069.341611940288
+628.4933066038313
   0
 DICTIONARY
   5
